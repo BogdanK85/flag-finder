@@ -28,7 +28,7 @@ export const Country = () => {
           color: '#f2f2f2',
           letterSpacing: '0.06em',
           textDecoration: 'underline',
-
+          marginLeft: '200px',
           borderColor: 'gray',
         }}
       >
